@@ -1,5 +1,7 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../index.htm"/>
+ <o:File HRef="item0016.xml"/>
+ <o:File HRef="props017.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image002.gif"/>
@@ -9,6 +11,8 @@
  <o:File HRef="image006.gif"/>
  <o:File HRef="image007.gif"/>
  <o:File HRef="image013.gif"/>
+ <o:File HRef="image015.png"/>
+ <o:File HRef="image017.gif"/>
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
